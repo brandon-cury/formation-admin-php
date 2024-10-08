@@ -1,0 +1,20 @@
+.navbar-nav .nav-link.active {
+  color: rgb(3, 7, 241) !important;
+}
+h1 {
+  margin: 100px 0;
+}
+.statutRadio {
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  text-align: center;
+}
+.statutRadio.Actif {
+  color: green;
+  background-color: green;
+}
+.statutRadio.Inactif {
+  color: red;
+  background-color: red;
+}
